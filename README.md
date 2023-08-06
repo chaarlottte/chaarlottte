@@ -11,7 +11,7 @@ I'm a software engineer with over 7 years of experience.
 - Programming languages such as Kotlin, Java, Python, JavaScript, and a few others
 - Artificial intelligence and machine learning
 - Backend development and engineering
-- Malware creation, threat analysis, reverse engineering, and penetration testing
+- Cybersecurity (threat analysis, reverse engineering, and penetration testing)
 - System administration
 - Working with the Minecraft Protocol
 - Mixins (SpongePowered), Gradle, Maven
