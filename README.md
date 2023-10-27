@@ -5,10 +5,10 @@
 <!--![Visitors](https://komarev.com/ghpvc/?username=chaarlottte&color=F5A9B8)-->
 ![Visitors](https://visitcount.itsvg.in/api?id=chaarlottte&icon=7&color=6)
 
-I'm a software engineer with over 7 years of experience.
+I'm a software engineer with over 8 years of experience.
 
 ### Some of my skills include:
-- Programming languages such as Kotlin, Java, Python, JavaScript, and a few others
+- Programming languages such as Kotlin, Java, Python, JS/TS, and a few others
 - Artificial intelligence and machine learning
 - Backend development and engineering
 - Cybersecurity (threat analysis, reverse engineering, and penetration testing)
@@ -16,6 +16,7 @@ I'm a software engineer with over 7 years of experience.
 - Working with the Minecraft Protocol
 - Mixins (SpongePowered), Gradle, Maven
 - Working with the Discord API
+- Web development, especially with SvelteKit
 
 ### Some of my weaker points that I'd like to work on are:
 - Frontend development
@@ -26,9 +27,10 @@ I'm a software engineer with over 7 years of experience.
 - Minecraft clients/mods
 - Discord bots/other tools involving Discord
 - Practical usages for AI and Machine Learning
+- Web development
 
 ### Skills (but pretty)
-[![My Skills](https://skillicons.dev/icons?i=java,bash,cloudflare,discord,bots,express,go,gradle,linux,lua,mysql,py,sqlite,selenium&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,discord,bots,html,js,ts,svelte,nodejs,java,kotlin,bash,md,py,tensorflow,pytorch,vscode,idea,vim,cloudflare,linux,mysql&perline=7)](https://skillicons.dev)
 ---
 
 ### GitHub Stats
