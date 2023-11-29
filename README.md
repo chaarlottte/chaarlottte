@@ -16,11 +16,11 @@ I'm a software engineer with over 8 years of experience.
 - Working with the Minecraft Protocol
 - Mixins (SpongePowered), Gradle, Maven
 - Working with the Discord API
-- Web development, especially with SvelteKit
+- Web development
 
 ### Some of my weaker points that I'd like to work on are:
 - Frontend development
-- HTML/CSS/Vanilla JS
+- CSS without using a framework like daisyUI or tailwind
 - C/C++
 
 ### Some things I'm looking to work on
