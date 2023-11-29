@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Charlotte! 🏳️‍⚧️</h1>
+<h1>Hi, I'm Charlotte!</h1>
 </div>
 
 <!--![Visitors](https://komarev.com/ghpvc/?username=chaarlottte&color=F5A9B8)-->
@@ -40,3 +40,5 @@ I'm a software engineer with over 8 years of experience.
 ![](https://github-profile-trophy.vercel.app/?username=chaarlottte&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 <!--[![](https://visitcount.itsvg.in/api?id=chaarlottte&icon=7&color=6)](https://visitcount.itsvg.in)-->
+
+Protect Trans kids. 🏳️‍⚧️
